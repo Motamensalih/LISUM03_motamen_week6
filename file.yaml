@@ -1,0 +1,25 @@
+file_type: csv
+dataset_name: testfile
+file_name: test_data
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+root_folder: "/content/drive/MyDrive/"
+columns: 
+    - antiNucleus
+    - event_File
+    - event_Number
+    - event_Time
+    - hist_File
+    - multiplicity
+    - NaboveLb
+    - NbelowLb
+    - NLb
+    - primary_Tracks
+    - prod_Time
+    - Pt 
+    - run_Number
+    - vertexx
+    - vertexy
+    - vertexz
